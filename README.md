@@ -1,7 +1,3 @@
-Merci pour le code ! Voici un README adapté à la classe **Client** de ton projet **Crédit-Céleste**, basé sur ta classe C# :
-
----
-
 # Classe Client - Crédit-Céleste
 
 ## Vue d'ensemble
