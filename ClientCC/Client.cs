@@ -16,23 +16,23 @@ namespace CreditCeleste
             public Client()
             {
                 civClient = "Mr";
-                nomClient = "DanTiliLudAlex";
-                prenomClient = "DTLA";
+                nomClient = "TirLudAleDan";
+                prenomClient = "TLAD";
 
             }
 
             public Client(string CivCli)
             {
                 civClient = CivCli;
-                nomClient = "DanTiliLudAlex";
-                prenomClient = "DTLA";
+                nomClient = "TirLudAleDan";
+                prenomClient = "TLAD";
             }
 
             public Client(string CivCli, string nomCli)
             {
                 civClient = CivCli;
                 nomClient = nomCli;
-                prenomClient = "DTLA";
+                prenomClient = "TLAD";
             }
 
 
